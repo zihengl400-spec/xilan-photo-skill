@@ -34,14 +34,6 @@
       "preview_url": "https://raw.githubusercontent.com/zihengl400-spec/xilan-photo-skill/main/previews/2026-11-10/14.jpeg"
     },
     {
-      "id": "2026-11-11-5s-portrait-daylight",
-      "date": "2026-11-11",
-      "number": 1,
-      "title": "iPhone 5s 人像与白天场景",
-      "prompt_url": "https://raw.githubusercontent.com/zihengl400-spec/xilan-photo-skill/main/templates/2026-11-11.md",
-      "preview_url": null
-    },
-    {
       "id": "2026-11-11-2",
       "date": "2026-11-11",
       "number": 2,
