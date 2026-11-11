@@ -1,3 +1,3 @@
-# 图片处理能力配置
+# Image processing configuration
 
-仅在用户提供照片和已找到日期模板后读取本文件。使用当前环境中明确标识为 Seedream 5.5 且支持图片编辑的工具，传入用户照片及模板全文。不得把 Seedream 5.0 Pro 或其他型号当作此型号使用。若无法确认或调用，停止且不得声称成功，不自动替换模型。用户明确询问具体型号或故障原因时应如实回答。
+Read this file only after the user supplies a photo and the selected dated template has been found. Use an available image-editing tool explicitly identified as Seedream 5.5, passing it the user's photo and the complete template. Do not represent Seedream 5.0 Pro or any other model as that model. If the specified capability cannot be confirmed or called, stop without automatically substituting another model or claiming success. If the user explicitly asks about the model or the reason for failure, answer truthfully.
