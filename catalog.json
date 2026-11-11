@@ -1,10 +1,85 @@
 {
   "version": 2,
   "templates": [
-    {"id":"2026-11-10-1","date":"2026-11-10","number":1,"title":"韩系街头近景","prompt_url":"https://raw.githubusercontent.com/zihengl400-spec/xilan-photo-skill/main/templates/2026-11-10/1.txt","preview_url":"https://raw.githubusercontent.com/zihengl400-spec/xilan-photo-skill/main/previews/2026-11-10/1.jpeg"},
-    {"id":"2026-11-10-10","date":"2026-11-10","number":10,"title":"街头回眸","prompt_url":"https://raw.githubusercontent.com/zihengl400-spec/xilan-photo-skill/main/templates/2026-11-10/10.txt","preview_url":"https://raw.githubusercontent.com/zihengl400-spec/xilan-photo-skill/main/previews/2026-11-10/10.jpeg"},
-    {"id":"2026-11-10-12","date":"2026-11-10","number":12,"title":"街头冰饮眨眼","prompt_url":"https://raw.githubusercontent.com/zihengl400-spec/xilan-photo-skill/main/templates/2026-11-10/12.txt","preview_url":"https://raw.githubusercontent.com/zihengl400-spec/xilan-photo-skill/main/previews/2026-11-10/12.jpeg"},
-    {"id":"2026-11-10-14","date":"2026-11-10","number":14,"title":"复古店铺人像","prompt_url":"https://raw.githubusercontent.com/zihengl400-spec/xilan-photo-skill/main/templates/2026-11-10/14.txt","preview_url":"https://raw.githubusercontent.com/zihengl400-spec/xilan-photo-skill/main/previews/2026-11-10/14.jpeg"},
-    {"id":"2026-11-11-5s-portrait-daylight","date":"2026-11-11","number":1,"title":"iPhone 5s 人像与白天场景","prompt_url":"https://raw.githubusercontent.com/zihengl400-spec/xilan-photo-skill/main/templates/2026-11-11.md","preview_url":null}
+    {
+      "id": "2026-11-10-1",
+      "date": "2026-11-10",
+      "number": 1,
+      "title": "韩系街头近景",
+      "prompt_url": "https://raw.githubusercontent.com/zihengl400-spec/xilan-photo-skill/main/templates/2026-11-10/1.txt",
+      "preview_url": "https://raw.githubusercontent.com/zihengl400-spec/xilan-photo-skill/main/previews/2026-11-10/1.jpeg"
+    },
+    {
+      "id": "2026-11-10-10",
+      "date": "2026-11-10",
+      "number": 10,
+      "title": "街头回眸",
+      "prompt_url": "https://raw.githubusercontent.com/zihengl400-spec/xilan-photo-skill/main/templates/2026-11-10/10.txt",
+      "preview_url": "https://raw.githubusercontent.com/zihengl400-spec/xilan-photo-skill/main/previews/2026-11-10/10.jpeg"
+    },
+    {
+      "id": "2026-11-10-12",
+      "date": "2026-11-10",
+      "number": 12,
+      "title": "街头冰饮眨眼",
+      "prompt_url": "https://raw.githubusercontent.com/zihengl400-spec/xilan-photo-skill/main/templates/2026-11-10/12.txt",
+      "preview_url": "https://raw.githubusercontent.com/zihengl400-spec/xilan-photo-skill/main/previews/2026-11-10/12.jpeg"
+    },
+    {
+      "id": "2026-11-10-14",
+      "date": "2026-11-10",
+      "number": 14,
+      "title": "复古店铺人像",
+      "prompt_url": "https://raw.githubusercontent.com/zihengl400-spec/xilan-photo-skill/main/templates/2026-11-10/14.txt",
+      "preview_url": "https://raw.githubusercontent.com/zihengl400-spec/xilan-photo-skill/main/previews/2026-11-10/14.jpeg"
+    },
+    {
+      "id": "2026-11-11-5s-portrait-daylight",
+      "date": "2026-11-11",
+      "number": 1,
+      "title": "iPhone 5s 人像与白天场景",
+      "prompt_url": "https://raw.githubusercontent.com/zihengl400-spec/xilan-photo-skill/main/templates/2026-11-11.md",
+      "preview_url": null
+    },
+    {
+      "id": "2026-11-11-2",
+      "date": "2026-11-11",
+      "number": 2,
+      "title": "冬日树林回眸",
+      "prompt_url": "https://raw.githubusercontent.com/zihengl400-spec/xilan-photo-skill/main/templates/2026-11-11/2.txt",
+      "preview_url": "https://raw.githubusercontent.com/zihengl400-spec/xilan-photo-skill/main/previews/2026-11-11/2.jpg"
+    },
+    {
+      "id": "2026-11-11-3",
+      "date": "2026-11-11",
+      "number": 3,
+      "title": "古镇木楼写真 A",
+      "prompt_url": "https://raw.githubusercontent.com/zihengl400-spec/xilan-photo-skill/main/templates/2026-11-11/3.txt",
+      "preview_url": "https://raw.githubusercontent.com/zihengl400-spec/xilan-photo-skill/main/previews/2026-11-11/3.jpg"
+    },
+    {
+      "id": "2026-11-11-4",
+      "date": "2026-11-11",
+      "number": 4,
+      "title": "古镇木楼写真 B（与模板 3 同指令）",
+      "prompt_url": "https://raw.githubusercontent.com/zihengl400-spec/xilan-photo-skill/main/templates/2026-11-11/4.txt",
+      "preview_url": "https://raw.githubusercontent.com/zihengl400-spec/xilan-photo-skill/main/previews/2026-11-11/4.jpg"
+    },
+    {
+      "id": "2026-11-11-5",
+      "date": "2026-11-11",
+      "number": 5,
+      "title": "山林逆光自拍",
+      "prompt_url": "https://raw.githubusercontent.com/zihengl400-spec/xilan-photo-skill/main/templates/2026-11-11/5.txt",
+      "preview_url": "https://raw.githubusercontent.com/zihengl400-spec/xilan-photo-skill/main/previews/2026-11-11/5.jpg"
+    },
+    {
+      "id": "2026-11-11-6",
+      "date": "2026-11-11",
+      "number": 6,
+      "title": "冬日湖边写真",
+      "prompt_url": "https://raw.githubusercontent.com/zihengl400-spec/xilan-photo-skill/main/templates/2026-11-11/6.txt",
+      "preview_url": "https://raw.githubusercontent.com/zihengl400-spec/xilan-photo-skill/main/previews/2026-11-11/6.jpg"
+    }
   ]
 }
