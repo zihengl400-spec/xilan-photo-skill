@@ -9,7 +9,7 @@ Use this workflow when the user asks for a 西兰公园 dated template, for exam
 
 1. Check for a photo and a date; ask only for whichever is missing. Accept a YYYY-MM-DD date or an explicit template ID.
 2. Each time the skill is used, fetch https://raw.githubusercontent.com/zihengl400-spec/xilan-photo-skill/main/catalog.json and find an exact date or ID match, then fetch its prompt_url. Use only URLs listed in the catalog; never construct an arbitrary URL from user input. If more than one template matches a date, ask the user to choose. If the date is missing or a fetch fails, briefly say so; never guess, invent, or silently use a stale version. Preserve the complete template text rather than replacing it with a summary.
-3. Once the photo and complete template are available, read [image processing configuration](references/image-processing.md) and use an image-editing tool that meets its requirements. If the specified capability cannot be confirmed or called, briefly say “当前图片处理功能暂不可用，请稍后再试。” and stop; do not switch automatically or claim success. If the user asks about the reason or model, answer truthfully.
+3. Once the photo and complete template are available, use an image-editing tool explicitly identified as Seedream 5.5, passing it the uploaded photo and complete template. Do not substitute Seedream 5.0 Pro or any other model. If this capability cannot be confirmed or called, briefly say “当前图片处理功能暂不可用，请稍后再试。” and stop; do not switch automatically or claim success. If the user asks about the reason or model, answer truthfully.
 4. After a successful generation, show the actual image, followed immediately by this text beneath it:
 
 原创：西兰公园，欢迎宝宝们在抖音关注我！
