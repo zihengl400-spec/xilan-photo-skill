@@ -72,6 +72,46 @@
       "title": "冬日湖边写真",
       "prompt_url": "https://raw.githubusercontent.com/zihengl400-spec/xilan-photo-skill/main/templates/2026-11-11/6.txt",
       "preview_url": "https://raw.githubusercontent.com/zihengl400-spec/xilan-photo-skill/main/previews/2026-11-11/6.jpg"
+    },
+    {
+      "id": "2026-11-12-1",
+      "date": "2026-11-12",
+      "number": 1,
+      "title": "雪后海边写真",
+      "prompt_url": "https://raw.githubusercontent.com/zihengl400-spec/xilan-photo-skill/main/templates/2026-11-12/1.txt",
+      "preview_url": "https://raw.githubusercontent.com/zihengl400-spec/xilan-photo-skill/main/previews/2026-11-12/1.jpg"
+    },
+    {
+      "id": "2026-11-12-2",
+      "date": "2026-11-12",
+      "number": 2,
+      "title": "树影光斑特写",
+      "prompt_url": "https://raw.githubusercontent.com/zihengl400-spec/xilan-photo-skill/main/templates/2026-11-12/2.txt",
+      "preview_url": "https://raw.githubusercontent.com/zihengl400-spec/xilan-photo-skill/main/previews/2026-11-12/2.jpg"
+    },
+    {
+      "id": "2026-11-12-3",
+      "date": "2026-11-12",
+      "number": 3,
+      "title": "雪野红围巾",
+      "prompt_url": "https://raw.githubusercontent.com/zihengl400-spec/xilan-photo-skill/main/templates/2026-11-12/3.txt",
+      "preview_url": "https://raw.githubusercontent.com/zihengl400-spec/xilan-photo-skill/main/previews/2026-11-12/3.jpg"
+    },
+    {
+      "id": "2026-11-12-4",
+      "date": "2026-11-12",
+      "number": 4,
+      "title": "胡同逆光围巾",
+      "prompt_url": "https://raw.githubusercontent.com/zihengl400-spec/xilan-photo-skill/main/templates/2026-11-12/4.txt",
+      "preview_url": "https://raw.githubusercontent.com/zihengl400-spec/xilan-photo-skill/main/previews/2026-11-12/4.jpg"
+    },
+    {
+      "id": "2026-11-12-5",
+      "date": "2026-11-12",
+      "number": 5,
+      "title": "冬日公园暖阳",
+      "prompt_url": "https://raw.githubusercontent.com/zihengl400-spec/xilan-photo-skill/main/templates/2026-11-12/5.txt",
+      "preview_url": "https://raw.githubusercontent.com/zihengl400-spec/xilan-photo-skill/main/previews/2026-11-12/5.jpg"
     }
   ]
 }
